@@ -1,0 +1,20 @@
+{
+  "name": "longankhampha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentandat93/longankhampha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyentandat93/longankhampha/issues"
+  },
+  "homepage": "https://github.com/nguyentandat93/longankhampha#readme"
+}
